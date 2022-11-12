@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/nft-preview-card-component-react/static/css/main.b100f584.css",
+    "main.js": "/nft-preview-card-component-react/static/js/main.e2c40e9f.js",
+    "static/media/image-equilibrium.jpg": "/nft-preview-card-component-react/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
+    "index.html": "/nft-preview-card-component-react/index.html",
+    "static/media/icon-view.svg": "/nft-preview-card-component-react/static/media/icon-view.fedac5512cc6657af397a76d5e03ea37.svg",
+    "static/media/icon-clock.svg": "/nft-preview-card-component-react/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
+    "static/media/icon-ethereum.svg": "/nft-preview-card-component-react/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
+    "main.b100f584.css.map": "/nft-preview-card-component-react/static/css/main.b100f584.css.map",
+    "main.e2c40e9f.js.map": "/nft-preview-card-component-react/static/js/main.e2c40e9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b100f584.css",
+    "static/js/main.e2c40e9f.js"
+  ]
+}
